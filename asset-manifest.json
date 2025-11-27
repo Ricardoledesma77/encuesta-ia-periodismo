@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Ricardoledesma77/encuesta-ia-periodismo/static/css/main.e6c13ad2.css",
-    "main.js": "/Ricardoledesma77/encuesta-ia-periodismo/static/js/main.d813b84f.js",
-    "static/js/453.d5509d2d.chunk.js": "/Ricardoledesma77/encuesta-ia-periodismo/static/js/453.d5509d2d.chunk.js",
+    "main.css": "/Ricardoledesma77/encuesta-ia-periodismo/static/css/main.ea6692e3.css",
+    "main.js": "/Ricardoledesma77/encuesta-ia-periodismo/static/js/main.556bcb34.js",
     "index.html": "/Ricardoledesma77/encuesta-ia-periodismo/index.html",
-    "main.e6c13ad2.css.map": "/Ricardoledesma77/encuesta-ia-periodismo/static/css/main.e6c13ad2.css.map",
-    "main.d813b84f.js.map": "/Ricardoledesma77/encuesta-ia-periodismo/static/js/main.d813b84f.js.map",
-    "453.d5509d2d.chunk.js.map": "/Ricardoledesma77/encuesta-ia-periodismo/static/js/453.d5509d2d.chunk.js.map"
+    "main.ea6692e3.css.map": "/Ricardoledesma77/encuesta-ia-periodismo/static/css/main.ea6692e3.css.map",
+    "main.556bcb34.js.map": "/Ricardoledesma77/encuesta-ia-periodismo/static/js/main.556bcb34.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.d813b84f.js"
+    "static/css/main.ea6692e3.css",
+    "static/js/main.556bcb34.js"
   ]
 }
