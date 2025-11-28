@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ricardoledesma77/encuesta-ia-periodismo/static/css/main.527e127f.css",
-    "main.js": "/Ricardoledesma77/encuesta-ia-periodismo/static/js/main.220c60f8.js",
-    "index.html": "/Ricardoledesma77/encuesta-ia-periodismo/index.html",
-    "main.527e127f.css.map": "/Ricardoledesma77/encuesta-ia-periodismo/static/css/main.527e127f.css.map",
-    "main.220c60f8.js.map": "/Ricardoledesma77/encuesta-ia-periodismo/static/js/main.220c60f8.js.map"
+    "main.css": "/encuesta-ia-periodismo/static/css/main.527e127f.css",
+    "main.js": "/encuesta-ia-periodismo/static/js/main.220c60f8.js",
+    "index.html": "/encuesta-ia-periodismo/index.html",
+    "main.527e127f.css.map": "/encuesta-ia-periodismo/static/css/main.527e127f.css.map",
+    "main.220c60f8.js.map": "/encuesta-ia-periodismo/static/js/main.220c60f8.js.map"
   },
   "entrypoints": [
     "static/css/main.527e127f.css",
